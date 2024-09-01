@@ -1,2 +1,2 @@
 # PyBlackbone
-PyBlackbone by RIritoXXL(Pythonize Library BlackBone)
+PyBlackbone by RiritoXXL(Pythonize Library BlackBone)
